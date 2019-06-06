@@ -6,7 +6,7 @@ Please read through Guide below
 	加强：
 	修复：
 
+2019年6月7日 00:50:58. AIO
 
-
-## Support hero
-  ![支持英雄](https://github.com/Entropy-AIO/Dependencies/blob/master/Other/Champion.jpg)
+	加强：
+	修复：
