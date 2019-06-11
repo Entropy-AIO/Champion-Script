@@ -1,7 +1,7 @@
 ## Update log	
 2019年6月11日23:17:04 AIO
 
-	更新日志
+	更新
 	未知
 	
 ## Support hero
