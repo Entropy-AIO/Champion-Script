@@ -1,8 +1,8 @@
-## 更新日志：Update log	
-2019-6-14 05:20:03
+## 更新日志
+2019年6月14日00:32:41
 
 	
 	
-## 支持列表：Support hero
+## 支持列表
   ![支持英雄](https://github.com/Entropy-AIO/Dependencies/blob/master/Other/Champion.jpg)
 	
